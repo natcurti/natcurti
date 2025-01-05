@@ -60,9 +60,11 @@
 <div>
   <h3>:zap: Stats :zap:</h3>
 
-  ![natcurti's Stats](https://github-readme-stats.vercel.app/api?username=natcurti&theme=neon&show_icons=true&hide_border=true&count_private=true&rank_icon=github&border_radius=10)
-
+  [![natcurti's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=natcurti&theme=midnight-purple)](https://git.io/streak-stats)
+  
   ![natcurti's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natcurti&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
+  
+  ![natcurti's Stats](https://github-readme-stats.vercel.app/api?username=natcurti&theme=neon&show_icons=true&hide_border=true&count_private=true&rank_icon=github&border_radius=10)
 
 </div>
 
